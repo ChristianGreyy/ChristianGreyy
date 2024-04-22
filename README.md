@@ -133,7 +133,7 @@
 
 <h2 align="center">️My Contribution get eaten by the snake 🐍</h2>
 
-![snake gif](https://raw.githubusercontent.com/leminhung/leminhung/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ChristianGreyy/ChristianGreyy/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">⏳ Where to find me 🏓</h2>
 <p align="center">
