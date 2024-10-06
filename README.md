@@ -11,7 +11,7 @@
   </a> , I'm Truong Thanh Hung
 <!--   <img  width="35px" height="35px"  src="blob:https://chat.zalo.me/34eceefd-7120-4e96-b1ba-a006798d12bd"></h1> -->
 
-<h3 align="center">A backend developer at Adamo Software 🏫</h3>
+<!-- <h3 align="center">A backend developer at Adamo Software 🏫</h3> -->
 
 
 - 🌱 Want to learn many new things from other people 🚀
